@@ -1,0 +1,18 @@
+current directory: /home/asxab/railstut/dz_rails/rspec/vendor/cache/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/home/asxab/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/asxab/railstut/dz_rails/rspec/vendor/cache/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240407-100870-748jpb sitelibdir\=./.gem.20240407-100870-748jpb clean
+
+current directory: /home/asxab/railstut/dz_rails/rspec/vendor/cache/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240407-100870-748jpb sitelibdir\=./.gem.20240407-100870-748jpb
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/asxab/railstut/dz_rails/rspec/vendor/cache/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240407-100870-748jpb sitelibdir\=./.gem.20240407-100870-748jpb install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240407-100870-748jpb/racc
+
+current directory: /home/asxab/railstut/dz_rails/rspec/vendor/cache/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240407-100870-748jpb sitelibdir\=./.gem.20240407-100870-748jpb clean
